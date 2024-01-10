@@ -1,4 +1,6 @@
-/* 03_convert-to-boolean (불리언 타입으로 변환) */
+/* 
+    03_convert-to-boolean (불리언 타입으로 변환)
+ */
 console.log('===== 논리 타입으로 변환 ======');
 
 // 1. Boolean 생성자 함수를 new 연산자 없이 호출하는 방법

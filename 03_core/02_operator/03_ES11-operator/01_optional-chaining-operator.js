@@ -1,6 +1,6 @@
 /* 
     01_ optional-chaining-operator(옵셔널 체이닝 연산자)
-    ES11(ECMAScript2020)에서 도입된 연산자로 죄항의 피연산자가 null 또는 undefined인 경우 undefined를 반환하고
+    ES11(ECMAScript2020)에서 도입된 연산자로 좌항의 피연산자가 null 또는 undefined인 경우 undefined를 반환하고
     그렇지 않으면 우항의 프로퍼티 참조를 이어간다. 
  */
 

@@ -1,4 +1,6 @@
-/* 02_convert-to-number (숫자 타입으로 변환) */
+/* 
+    02_convert-to-number (숫자 타입으로 변환)
+ */
 console.log('===== 숫자 타입으로 변환 ======');
 
 // 1. Number 생성자 함수를 new 연산자 없이 호출
